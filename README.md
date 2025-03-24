@@ -4,6 +4,7 @@
 > <a href="#source">책 데이터 출처</a></br>
 > <a href="#analysis">책 데이터 분석</a></br>
 > <a href="#make_up">웹 사이트 제작</a></br>
+> <a href="#conclusion">결론</a></br>
 
 <a href name="source"></a>
 ## 책 데이터 출처
@@ -78,6 +79,8 @@
   + 비극적 어조는 이야기의 슬픔을 강조하고 독자의 감정을 자극함.
 ---
 <a href name="make_up"></a>
+## 웹페이지 제작 </br>
+
 ### Gemini 활용 자동화
 구글에서 Gemini 활용 API를 무료로 제공함.</br>
 책 데이터 수집 후 파이썬으로 자동화 가능.
@@ -106,7 +109,7 @@
 > + 논문
 
 ---
-
+<a href="conclusion"></a>
 ## 결론
 유사한 다른 앱들에 비해서 능동적인 학습을 기대할 수 있음.
 > ### 문제점
