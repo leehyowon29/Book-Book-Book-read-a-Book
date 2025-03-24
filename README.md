@@ -109,7 +109,7 @@
 > + 논문
 
 ---
-<a href="conclusion"></a>
+<a href name="conclusion"></a>
 ## 결론
 유사한 다른 앱들에 비해서 능동적인 학습을 기대할 수 있음.
 > ### 문제점
